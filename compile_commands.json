@@ -1,0 +1,74 @@
+[
+ {
+  "directory": "/home/sourav/Documents/Code/mp1",
+  "arguments": [
+   "g++",
+   "-c",
+   "MP1Node.cpp",
+   "-Wall",
+   "-g",
+   "-std=c++11"
+  ],
+  "file": "MP1Node.cpp"
+ },
+ {
+  "directory": "/home/sourav/Documents/Code/mp1",
+  "arguments": [
+   "g++",
+   "-c",
+   "EmulNet.cpp",
+   "-Wall",
+   "-g",
+   "-std=c++11"
+  ],
+  "file": "EmulNet.cpp"
+ },
+ {
+  "directory": "/home/sourav/Documents/Code/mp1",
+  "arguments": [
+   "g++",
+   "-c",
+   "Application.cpp",
+   "-Wall",
+   "-g",
+   "-std=c++11"
+  ],
+  "file": "Application.cpp"
+ },
+ {
+  "directory": "/home/sourav/Documents/Code/mp1",
+  "arguments": [
+   "g++",
+   "-c",
+   "Log.cpp",
+   "-Wall",
+   "-g",
+   "-std=c++11"
+  ],
+  "file": "Log.cpp"
+ },
+ {
+  "directory": "/home/sourav/Documents/Code/mp1",
+  "arguments": [
+   "g++",
+   "-c",
+   "Params.cpp",
+   "-Wall",
+   "-g",
+   "-std=c++11"
+  ],
+  "file": "Params.cpp"
+ },
+ {
+  "directory": "/home/sourav/Documents/Code/mp1",
+  "arguments": [
+   "g++",
+   "-c",
+   "Member.cpp",
+   "-Wall",
+   "-g",
+   "-std=c++11"
+  ],
+  "file": "Member.cpp"
+ }
+]
